@@ -15,7 +15,7 @@ Acima de 7,0 Aprovado
  a média da classe.
  */
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Exercicio09Apostila {
     public static void main(String[] args) {
@@ -62,4 +62,4 @@ public class Exercicio09Apostila {
 
         sc.close();
     }
-}
+}*/
