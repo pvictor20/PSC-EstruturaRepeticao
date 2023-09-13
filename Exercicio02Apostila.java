@@ -14,5 +14,8 @@ public class Exercicio02Apostila {
             e = e + (1 / fatorial);
         }
         System.out.println(e);
+
+
+        sc.close();
     }
 }
